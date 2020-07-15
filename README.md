@@ -1,4 +1,4 @@
-# ADB-over-Wifi-AutoConnect-code
+# "ADB over Wifi AutoConnect" command line bat files
 A simple code to connect your Android phone to Android Studio via WIFI, without any complications.
 For Windows, tested on Windows 8.1, should work from 7 to 10.
 
