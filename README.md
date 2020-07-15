@@ -9,3 +9,6 @@ Usually You will need thsi after every change on network (wifi ssid rename etc.)
 
 # How to use
 Just download bat files and use. Usually, no need to run with admin privilegies. Script will only ask You for last 3 digits of IP code of Wifi connection of your Android device. You can find it on wifi settings.(for ex. 192.168.0.XXX, you will insert only XXX part) Then, device will immediatly appear on Android Studio. 
+
+# Troubleshoot
+If your Android wifi connection IP is not begining with 192.168.0. , then edit it in bat file via any text editor.
